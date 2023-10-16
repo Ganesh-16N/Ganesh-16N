@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ganesh Nagargoje</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img src="https://raw.githubusercontent.com/yashsehgal/yashsehgal/main/media/gh-profile-banner.png" alt="walpaper" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh-16n&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh-16n" /> </p>
 
 <h3 align="left">Connect with me:</h3>
