@@ -1,6 +1,6 @@
 
-<h1 align="centre">Hello, I'm Ganesh Nagargoje 👋</h1>
-<h3 align="centre">Passionate Frontend Developer</h3>
+<h1 align="center">Hello, I'm Ganesh Nagargoje 👋</h1>
+<h3 align="center">Passionate Frontend Developer</h3>
 
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=ganesh-16n&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
