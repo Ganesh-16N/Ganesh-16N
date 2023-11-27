@@ -7,10 +7,13 @@
 </p>
 
 
-<h3 align="left">Connect with me:  <a href="https://www.linkedin.com/in/ganesh-nagargoje-3a5238231" target="blank">
-   https://www.linkedin.com/in/ganesh-nagargoje-3a5238231
-  </a> </h3>
+<h3 align="left"> Connect with me :  
+  <a href="https://www.linkedin.com/in/ganesh-nagargoje-3a5238231" target="blank"> LINKEDIN </a> 
+</h3>
 
+<h3 align="left"> Read with me :  
+  <a href="https://medium.com/@ganunagargoje16" target="blank"> MEDIUM </a> 
+</h3>
 
 <h3 align="left">Languages and Tools:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
