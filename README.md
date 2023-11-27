@@ -1,11 +1,12 @@
-<h1 align="center">Hello, I'm Ganesh Nagargoje 👋</h1>
-<h3 align="center">Passionate Frontend Developer</h3>
 
+<h1 align="left">Hello, I'm Ganesh Nagargoje 👋</h1>
+<h3 align="left">Passionate Frontend Developer</h3>
 
-
-<p align="center"> 
+<p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=ganesh-16n&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
