@@ -12,7 +12,7 @@
   </a> </h3>
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -21,7 +21,7 @@
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-
+</h3>
 <h3 align="center">Mobile App Development:</h3>
 <p align="center">
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
