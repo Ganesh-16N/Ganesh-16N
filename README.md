@@ -7,8 +7,8 @@
 </p>
 
 
-<h3 align="left">Connect with me:  <a href="[https://linkedin.com/in/ganesh-nagargoje](https://www.linkedin.com/in/ganesh-nagargoje-3a5238231/)" target="blank">
-   https://www.linkedin.com/in/ganesh-nagargoje-3a5238231/
+<h3 align="left">Connect with me:  <a href="https://www.linkedin.com/in/ganesh-nagargoje-3a5238231" target="blank">
+   https://www.linkedin.com/in/ganesh-nagargoje-3a5238231
   </a> </h3>
 
 
