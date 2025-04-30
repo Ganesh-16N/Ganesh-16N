@@ -47,7 +47,7 @@ My mission is to blend top-notch **UI/UX design** with **clean, efficient code**
 ## 📊 GitHub Stats
 
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=ganesh-16n&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ganesh-16n&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ganesh-16n&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%"  />
 </p>
 
