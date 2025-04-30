@@ -1,74 +1,86 @@
-<!-- Banner -->
-<h1 align="center">👋 Hey there, I'm Ganesh Nagargoje</h1>
-<h3 align="center">💻 React Native Developer | 🛠️ UI/UX Enthusiast | 📍 India</h3>
+<!-- Header Banner -->
+<h1 align="center">Hi there, I'm Ganesh Nagargoje 👋</h1>
+<h3 align="center">💼 Senior React Native Developer | 🎨 UI/UX Craftsman | 🧠 Tech Explorer | 📍 India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ganesh-16n&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ganesh-16n&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Hi! I'm **Ganesh Nagargoje**, a passionate **React Native & Frontend Developer** focused on building fast, responsive, and accessible mobile & web applications. I love working with modern tech stacks like **TypeScript**, **Redux Toolkit**, and **Tailwind CSS**, and I'm always looking to learn and improve.
+I'm **Ganesh Nagargoje**, a results-driven **React Native Developer** with over **4 years** of experience crafting seamless mobile experiences. I specialize in building performant, cross-platform mobile apps using **React Native**, **TypeScript**, and **modern design systems**.
 
-- 🔭 Currently working on: Cross-platform mobile applications using React Native  
-- 🌱 Learning: Next.js | React Query | Advanced State Management  
-- 📫 Reach me at: ganunagargoje16@gmail.com  
-- 💡 Fun fact: I believe clean code is just as important as a clean UI!
+I have worked with startups and enterprises to deliver impactful applications that combine pixel-perfect UIs with clean, scalable codebases. Passionate about problem-solving, I’m always seeking new challenges to grow and innovate.
+
+- 🛠️ 4+ Years of Experience in Frontend/Mobile Development  
+- 📱 Expert in React Native | Redux | TypeScript | Expo | Tailwind CSS  
+- 💬 Strong understanding of UI/UX principles & performance optimization  
+- ⚙️ Backend experience with Node.js | Express | Firebase  
+- 🎯 Focused on clean code, testing, scalability, and team collaboration  
+- 🌍 Open to freelance/remote opportunities
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/reduxjs/reduxjs-icon.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="React Native" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React.js" />
+  <img src="https://www.vectorlogo.zone/logos/reduxjs/reduxjs-icon.svg" width="40" height="40" alt="Redux Toolkit" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40" height="40" alt="Express.js" />
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://img.icons8.com/ios/50/000000/expo.png" width="40" height="40" alt="Expo" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" alt="GitHub" />
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40" height="40" alt="GitLab" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganesh-16n&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" alt="Ganesh's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh-16n&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+<p align="center" display="flex" justify_content="between" >
+  <img src="https://github-readme-stats.vercel.app/api?username=ganesh-16n&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh-16n&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 🔗 Connect with Me
+## 📝 Featured Articles
+
+- ✍️ [Mastering React Native Navigation (Medium)](https://medium.com/@ganunagargoje16)  
+- ✍️ [State Management in React Native with Redux Toolkit](https://medium.com/@ganunagargoje16)
+
+---
+
+## 🔗 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ganesh-nagargoje-3a5238231" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://medium.com/@ganunagargoje16" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="mailto:ganunagargoje16@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ✨ My Motto
+## 📌 Quote That Drives Me
 
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House  
-> *Keep it clean. Keep it simple. Keep learning.*
+> _“Simplicity is the soul of efficiency.”_ – Austin Freeman
+
+---
 
