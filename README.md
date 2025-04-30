@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hey there, I'm Ganesh Nagargoje 👋</h1>
-<h3 align="center">💼 Senior React Native Developer | 🎨 UI/UX Enthusiast | 🧠 Lifelong Learner | 📍 India</h3>
+<h3 align="center">💼 React Native Developer | 🎨 UI/UX Enthusiast | 🧠 Lifelong Learner | 📍 India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ganesh-16n&label=Profile%20Views&color=0e75b6&style=flat-square" alt="ganesh-16n" />
