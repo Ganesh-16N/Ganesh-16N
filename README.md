@@ -30,7 +30,6 @@ My mission is to blend top-notch **UI/UX design** with **clean, efficient code**
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
   <img src="https://reactnative.dev/img/header_logo.svg" width="40" alt="React Native"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React"/>
-  <img src="https://www.vectorlogo.zone/logos/reduxjs/reduxjs-icon.svg" width="40" alt="Redux Toolkit"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" alt="Firebase"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" alt="Node.js"/>
