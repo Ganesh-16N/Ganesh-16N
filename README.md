@@ -10,12 +10,13 @@
 
 ## 🚀 About Me
 
-I'm **Ganesh Nagargoje**, a passionate and performance-focused **React Native Developer** with **4+ years** of experience building sleek, scalable, and robust mobile applications.
+I'm **Ganesh Nagargoje**, a passionate and performance-focused **React Native Developer** with **2+ years** of experience building sleek, scalable, and robust mobile applications and web platforms.
 
 My mission is to blend top-notch **UI/UX design** with **clean, efficient code** to deliver seamless mobile experiences. I thrive in agile environments, collaborate with cross-functional teams, and constantly seek innovation in mobile tech.
 
 - 🧠 Strong grasp of modern mobile architecture & state management
 - 🔧 Technologies: React Native, Redux Toolkit, TypeScript, Expo, Tailwind CSS
+
 - 🛠️ Backend tools: Node.js, Express, Firebase
 - 🎯 Performance-obsessed & pixel-perfectionist
 - 🤝 Team player with product thinking & mentoring experience
