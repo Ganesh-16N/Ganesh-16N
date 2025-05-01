@@ -23,15 +23,6 @@ My mission is to blend top-notch **UI/UX design** with **clean, efficient code**
 
 ---
 
-<p align="center">
-  <picture>
-    <source srcset="https://user-images.githubusercontent.com/34391629/188001276-e28ab9d6-0401-4433-a74b-42e33580edbc.svg" media="(prefers-color-scheme: dark)">
-    <img alt="Ganesh Nagargoje Logo" src="https://user-images.githubusercontent.com/34391629/188001276-e28ab9d6-0401-4433-a74b-42e33580edbc.svg" style="display:none;" />
-  </picture>
-</p>
-
----
-
 ## 🧰 Tech Stack
 
 <p align="center">
