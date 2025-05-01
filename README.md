@@ -52,7 +52,7 @@ My mission is to blend top-notch **UI/UX design** with **clean, efficient code**
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh-16n&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh-16n&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 </p>
 
 ---
