@@ -63,8 +63,8 @@ My mission is to blend top-notch **UI/UX design** with **clean, efficient code**
 
 ## ✍️ Featured Articles
 
-- [Mastering React Native Navigation](https://medium.com/@ganunagargoje16)
-- [State Management in React Native with Redux Toolkit](https://medium.com/@ganunagargoje16)
+- [Exploring Expo and React Native: A Beginner’s Guide](https://medium.com/@ganunagargoje16/decoding-expo-versus-react-native-a-comprehensive-beginners-guide-to-mobile-development-784d1ee83bd7)
+- [Understanding Time & Space Complexity: A Beginner’s Guide to DSA](https://medium.com/@ganunagargoje16/understanding-time-space-complexity-a-beginners-guide-to-dsa-68ca3df3361f)
 
 ---
 
